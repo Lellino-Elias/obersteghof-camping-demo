@@ -150,12 +150,12 @@ const obersteghof: CampsiteConfig = {
     heading: "Eindrücke von der Oberstegalm",
     headingEmphasis: "Oberstegalm",
     intro:
-      "Warmes Zirbenholz, Kachelofen und eine gemütliche Stube — ein Blick in die Selbstversorgerhütte hoch über Maria Alm.",
+      "Warmes Zirbenholz, Holzofen und eine gemütliche Stube — ein Blick in die Selbstversorgerhütte hoch über Maria Alm.",
     tag: "Almhütte · Juni bis Oktober",
     moreCount: 12,
     images: [
       { src: `${IMG}/gallery-04e310f84d.webp`, alt: "Küche und Stube der Oberstegalm mit Holzherd" },
-      { src: `${IMG}/gallery-f8281ec440.webp`, alt: "Küche der Oberstegalm mit Kachelofen und Brennholz" },
+      { src: `${IMG}/gallery-f8281ec440.webp`, alt: "Küche der Oberstegalm mit Holzofen und Brennholz" },
       { src: `${IMG}/gallery-4709f19433.webp`, alt: "Schlafzimmer der Oberstegalm mit Doppelbett aus Zirbenholz" },
       { src: `${IMG}/gallery-7d319dd0e3.webp`, alt: "Schlaflager im Obergeschoss der Oberstegalm" },
     ],
