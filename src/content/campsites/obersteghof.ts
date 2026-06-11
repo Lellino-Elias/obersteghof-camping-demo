@@ -13,7 +13,6 @@ const obersteghof: CampsiteConfig = {
   slug: "obersteghof",
   ort: "Maria Alm",
   region: "Salzburger Land",
-  theme: "alpin",
   heroVariant: "center",
   brandKind: "Stellplatz am Bauernhof",
   regionLong: "Region Hochkönig · Maria Alm · Salzburger Land · Österreich",
@@ -183,7 +182,7 @@ const obersteghof: CampsiteConfig = {
     telHref: "tel:+436503502874",
     mail: "angelarainer@gmx.at",
     adresse: "Stegen 27 · 5761 Maria Alm · Österreich",
-    coords: { lat: 47.394363, lng: 12.901932 },
+    coords: { lat: 47.394348, lng: 12.901951 },
   },
 
   languages: ["DE", "EN"],
