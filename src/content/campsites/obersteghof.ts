@@ -41,7 +41,7 @@ const obersteghof: CampsiteConfig = {
     {
       title: "Hofleben mit Eseln",
       text: "Deinen Platz teilst du in Nachbarschaft mit den Eseln vom Hof — Natur und Tiere direkt vor dem Vorzelt.",
-      image: { src: `${IMG}/gallery-b0090d07fb.webp`, alt: "Esel auf der Wiese am Obersteghof" },
+      image: { src: `${IMG}/gallery-d647fa13dc.webp`, alt: "Esel am Heu vor dem Stall des Obersteghofs" },
     },
   ],
 
@@ -84,12 +84,7 @@ const obersteghof: CampsiteConfig = {
       {
         title: "In Nachbarschaft der Esel",
         text: "Die Esel vom Hof grasen gleich nebenan — ein Stück Bauernhofleben, das gerade Kinder gern täglich besuchen.",
-        image: { src: `${IMG}/gallery-d647fa13dc.webp`, alt: "Esel am Stall des Obersteghofs" },
-      },
-      {
-        title: "Kräutergarten von oben",
-        text: "Der angelegte Kräutergarten mit seinen Hochbeeten lädt zum Schlendern und Schauen ein — Wildkräuter, so weit das Auge reicht.",
-        image: { src: `${IMG}/amenity-cc2dfe5b68.webp`, alt: "Kräutergarten am Obersteghof aus der Vogelperspektive" },
+        image: { src: `${IMG}/gallery-b0090d07fb.webp`, alt: "Esel mit Fohlen auf der Hofwiese des Obersteghofs" },
       },
       {
         title: "Obstbäume & Bienen",
